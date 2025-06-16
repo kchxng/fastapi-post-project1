@@ -1,0 +1,7 @@
+@baseURL=http://localhost:8000
+
+### Recommended enter swagger UI URL via browser: chrome, firefox, etc.
+GET {{baseURL}}/docs
+
+### ### Recommended enter ReDoc URL via browser: chrome, firefox, etc.
+GET {{baseURL}}/redoc
